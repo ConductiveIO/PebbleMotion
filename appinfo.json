@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "grodin.robby@gmail.com",
+    "longName": "PebbleMotion",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "PebbleMotion",
+    "uuid": "34835ad3-2980-4fa6-8350-b5ea5528b150",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
